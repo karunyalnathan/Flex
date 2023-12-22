@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Flex</string>
+
+
+    <string name="welcome">Welcome to Flex,</string>
+    <string name="welcome_what_we_are">Your cycle syncing workout app!</string>
+    <string name="welcome_what_we_do">We provide a workout program that is adapted for your monthly hormonal cycle.</string>
+
+    <string name="select_phase">Select your current phase:</string>
+
+    <string name="your_cycle_synced_workout_plan">Your cycle synced workout plan</string>
+    <string name="your_workouts_for_this_phase">Your workouts for this phase:</string>
+
+    <string name="congrats">Congrats,</string>
+    <string name="completed_message">You Completed </string>
+    <string name="completed">completed,</string>
+    <string name="start_workout">Start Workout</string>
+
+    <string name="return_home">Return to Home Screen</string>
+    <string name="end_workout_sure">Are you sure you want to end this workout?</string>
+    <string name="end_workout">End Workout</string>
+    <string name="complete_workout">Complete Workout</string>
+    <string name="no">No</string>
+    <string name="end">End</string>
+
+    <string name="rest">Rest</string>
+
+    <string name="sets_colon">Sets: </string>
+    <string name="reps_colon">Reps: </string>
+    <string name="sets">sets</string>
+    <string name="reps">reps</string>
+
+    <string name="last_weight_used_colon">Last weight used: </string>
+    <string name="weight_used">Weight used</string>
+    <string name="lb">lb</string>
+
+    <string name="of">of</string>
+    <string name="seconds">seconds</string>
+    <string name="sec">sec</string>
+    <string name="min">min</string>
+
+    <string name="equipment_colon">Equipment: </string>
+    <string name="body_only">body only</string>
+
+    <string name="target_muscle_colon">Targeted muscle group: </string>
+    <string name="exercise_description_colon">Exercise description:</string>
+
+    <string name="loading">loading...</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="reset_phase">Reset phase</string>
+    <string name="reset_phase_description">This will mark all workouts under this phase as not yet completed</string>
+
+
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="abc_dialog_corner_radius_material">6dp</attr>
+</resources>

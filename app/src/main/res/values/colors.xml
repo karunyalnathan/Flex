@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_200">#f18ccc</color>
+    <color name="pink_500">#ec008b</color>
+    <color name="pink_700">#c3007e</color>
+    <color name="blue_200">#92ceff</color>
+    <color name="blue_500">#269cff</color>
+    <color name="blue_700">#247be2</color>
+    <color name="blue_900">#1e4bb0</color>
+    <color name="navy_200">#94a2c5</color>
+    <color name="navy_500">#274b90</color>
+    <color name="navy_900">#022159</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
