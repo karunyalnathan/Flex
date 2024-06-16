@@ -29,7 +29,6 @@ class FlexApplication: Application() {
 
     val activeWorkoutUseCase by lazy { ActiveWorkoutUseCase(workoutRepository, exerciseRepository) }
 
-
     fun setPhase(phase: String) {
         val sharedPref = getSharedPreferences(SHARED_PREFERENCES_NAME, Context.MODE_PRIVATE)
         applicationScope.launch {
